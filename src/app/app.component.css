@@ -1,0 +1,11 @@
+.correct {
+    color: rgb(125, 197, 17);
+    font-weight: bold;
+}
+.incorrect {
+    color: red;
+    font-weight: bold;
+}
+.container {
+    margin-top: 25vh;
+}
